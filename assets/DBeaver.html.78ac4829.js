@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o as r,c as t,b as o}from"./app.c37b87a5.js";const _={},a=o("p",null,"DBeaver:\u5F00\u6E90\u6570\u636E\u5E93\u7BA1\u7406\u5DE5\u5177\u3002",-1),c=[a];function s(n,l){return r(),t("div",null,c)}var m=e(_,[["render",s],["__file","DBeaver.html.vue"]]);export{m as default};

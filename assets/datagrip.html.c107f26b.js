@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o as t,c as o,b as r}from"./app.c37b87a5.js";const a={},_=r("p",null,"IDEA\u5B98\u65B9\u7684\u8FD9\u4E2A\u6570\u636E\u5E93\u7BA1\u7406\u795E\u5668\u771F\u9999\uFF01",-1),c=[_];function s(n,l){return t(),o("div",null,c)}var f=e(a,[["render",s],["__file","datagrip.html.vue"]]);export{f as default};

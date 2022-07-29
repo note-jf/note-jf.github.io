@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o as r,c as t,b as c}from"./app.c37b87a5.js";const o={},s=c("p",null,"\u4E00\u952E\u751F\u6210\u6570\u636E\u5E93\u6587\u6863\uFF0C\u582A\u79F0\u6570\u636E\u5E93\u754C\u7684Swagger",-1),_=[s];function a(n,l){return r(),t("div",null,_)}var m=e(o,[["render",a],["__file","screw.html.vue"]]);export{m as default};
